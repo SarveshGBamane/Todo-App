@@ -1,0 +1,93 @@
+#todo{
+    display: inline-block;
+    padding:0.5cm;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    background-image: linear-gradient(to right bottom, #fcb762, #f4c641, #ded818, #b6eb00, #71fe00);  
+    font-family: "Concert One", sans-serif;
+    box-shadow: 1px 1px 10px black;
+
+}
+
+#input{
+    display: flex;
+    gap: 15px;
+    height: 1.5cm;
+    
+}
+#ip{
+    font-size: 0.64cm;
+}
+
+#tasks{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+background-image: linear-gradient(to right bottom, #fedeb8, #fce4af, #f3eca8, #e5f5a6, #d0ffaa);    margin-top: 10px;
+    border-radius: 10px;
+    padding-right: 0;
+
+}
+
+#p{
+    margin-right: 20px;
+    font-size: 0.8cm;
+}
+#add{
+    width: 2.3cm;
+    height: 1.5cm;
+    font-size: 0.56cm;
+            padding: 8px;
+
+}
+#del{
+    width: 2.3cm;
+    height: 1.5cm;
+    font-size: 0.56cm;
+        padding: 2px;
+
+
+}
+
+#upd{
+    width: 2.3cm;
+    height: 1.5cm;
+        font-size: 0.56cm;
+
+    padding: 2px;
+}
+
+
+#heading{
+    text-align: center;
+}
+
+
+#ul {
+background-image: linear-gradient(to right bottom, #fedeb8, #fce4af, #f3eca8, #e5f5a6, #d0ffaa);    padding: 0;
+    margin: 0;
+    width: 100%;  
+    
+}
+
+li {
+    font-size: 0.7cm;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 5px 10px;
+    width: 100%;   
+    box-sizing: border-box; 
+}
+
+li p, li span {
+    margin: 0;
+    padding-right: 10px;
+}
+
+#controls {
+    display: flex;
+    gap: 15px;
+}
+
