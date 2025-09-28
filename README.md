@@ -17,7 +17,6 @@ A simple **Todo App** built with **React** and **Bootstrap** that allows users t
 ## Screenshots
 
 ![Screenshot](todo.png)  
-*(Replace with an actual screenshot of your app)*
 
 
 ## Technologies Used
